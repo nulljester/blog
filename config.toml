@@ -2,3 +2,15 @@ baseURL = "https://nulljester.com/"
 languageCode = "en-us"
 title = "Null Jester"
 theme = "hemingway"
+
+[params.highlight]
+style = "atom-one-light"
+languages = ["go", "bash"]
+
+[[params.social]]
+url = "https://github.com/nulljester"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/nulljester"
+fa_icon = "fa-twitter"
