@@ -1,0 +1,4 @@
+baseURL = "https://nulljester.com/"
+languageCode = "en-us"
+title = "Null Jester"
+theme = "hemingway"
